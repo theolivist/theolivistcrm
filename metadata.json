@@ -1,0 +1,5 @@
+{
+  "name": "The Olivist CRM",
+  "description": "A mobile-first CRM application for The Olivist to manage customers and analyze PDF invoices using AI. All data is stored locally on your device.",
+  "requestFramePermissions": []
+}
